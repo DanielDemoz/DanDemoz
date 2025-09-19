@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Daniel S. Demoz
 
-<!--
-**DanDemoz/DanDemoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science Consultant | College Professor | BI & Analytics Specialist**
 
-Here are some ideas to get you started:
+## 🧑‍💻 Skills
+Python | SQL | Tableau | Power BI | SAS | SPSS | Machine Learning | Optimization | Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Minimizing Subway Delay Risk (Optimization Model)](https://github.com/DanDemoz/Final_Analysis_TTC_line_1)
+- [AI Ethics Case Study](https://github.com/DanDemoz/ai-ethics-case-study)
+- [Business Intelligence Dashboards](https://github.com/DanDemoz/BI-Dashboards)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/daniel-s-demoz)
+- Email: brukd.consultant@gmail.com
